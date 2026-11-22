@@ -1,0 +1,6 @@
+{
+  "name": "RelayDesk — Customer Support & Query Management",
+  "description": "Full-stack customer support ticket management, complaint tracking workflow, SLA analytics, and customer interaction history platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
